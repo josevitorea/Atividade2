@@ -4,6 +4,8 @@ Esse projeto refere-se a atividade 2 onde foi proposto a criação de um sistema
 Equipe: JOSÉ Vitor Gonçalves Sena;
 --------------------------------------
 funções utilizada:
+
+
 *CadastraDisciplina
 *CadastraAluno
 * LancaNota
@@ -14,6 +16,8 @@ funções utilizada:
 * Conceito
 ----------------------------------
 Estrutura de Dados:
+
+
 *FILA
 * Vetor
 * Lista Encadeada
