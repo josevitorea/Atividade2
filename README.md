@@ -10,7 +10,7 @@ funções utilizada:
 *AlteraNota
 * Relatorio
 * Visualiza Lista
-*A Principal
+* int main
 ----------------------------------
 Estrutura de Dados:
 *FILA
