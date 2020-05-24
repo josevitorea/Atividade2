@@ -9,11 +9,11 @@ funções utilizada{
 * LancaNota
 *AlteraNota
 * relatorio
+* Visualiza Lista
 *main
-}
------------------------------------
+}-----------------------------------
 Estrutura de Dados{
 *FILA
 * Vetor
-* Matriz
+* Lista Encadeada
 }
